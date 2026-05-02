@@ -9,10 +9,17 @@ Analyze organizational expenses across departments and regions to identify cost 
 - Includes fields such as Department, Region, Category, and Expense  
 - Designed to simulate organizational expense analysis
 
+## ⚙️ Approach
+- Cleaned and structured raw transactional data  
+- Created Pivot Tables for aggregation  
+- Built interactive dashboard using slicers and charts  
+- Derived insights from multi-level analysis  
+
 ## 🔍 Key Metrics
-- Department-wise and region-wise expense breakdown  
-- Category-level cost distribution  
-- Identification of top-spending departments    
+- Total Expense  
+- Top Spending Department  
+- Top Category  
+- Region-wise Distribution      
 
 ## 🛠 Tools Used
 - Excel (Pivot Tables, Slicers, Charts)
