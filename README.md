@@ -1,4 +1,4 @@
-# excel-expense-analysis-dashboard
+# 📊 Expense Analysis Dashboard (Excel)
 Department &amp; Region-wise Expense Analysis using Excel
 
 ## 📂 Dataset
