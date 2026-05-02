@@ -1,5 +1,9 @@
 # excel-expense-analysis-dashboard
 Department &amp; Region-wise Expense Analysis using Excel
+
+## 📂 Dataset
+- Sample dataset used for analysis and demonstration purposes
+
 # 📊 Department & Region-wise Expense Analysis Dashboard
 
 Analyzed 1500+ transactional records to evaluate organizational spending patterns across departments, regions, and product categories.
